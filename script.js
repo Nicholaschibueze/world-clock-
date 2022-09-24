@@ -1,6 +1,6 @@
 let apiQuoteRequest = 'https://api.quotable.io/random';
 let apiLocation = "https://api.freegeoip.app/json/?apikey=0ca02b90-2679-11ec-9d71-919657632f04";
-let apiTimeZone = "http://worldtimeapi.org/api/timezone/Africa/Lagos";
+let apiTimeZone = "http://worldtimeapi.org/api/ip/197.211.39.229";
 const place = document.getElementById("location");
 const apiQuotation = document.querySelectorAll(".ApiQuotation");
 const extraInfo = document.querySelectorAll(".timeZoneApi");
